@@ -13,4 +13,4 @@ Repos are sorted into three categories:
 
 This diagram was initially presented at the [2023 STAC Sprint](https://github.com/radiantearth/community-sprints/tree/main/09262023-philadelphia-pa).
 
-![stac-utils](https://github.com/stac-utils/.github/assets/58314/27857b1c-0c66-4713-ac8c-e522a797b80e)
+![stac-utils](../drawings/stac-utils.png)
