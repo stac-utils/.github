@@ -1,6 +1,7 @@
 # stac-utils
 
 Implementations and tooling for the [STAC specification](https://stacspec.org/).
+For general ecosystem questions and announcements, use [this organization's discussion page](https://github.com/orgs/stac-utils/discussions) or the [**stac-spec** discussions topic `stac-software`](https://github.com/radiantearth/stac-spec/discussions/categories/stac-software).
 
 ## Diagram
 
