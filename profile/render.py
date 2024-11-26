@@ -6,6 +6,8 @@ import jinja2
 import tomllib
 from jinja2 import Environment, PackageLoader
 
+IGNORE = [".github", "developer-guide", "pgstacrs"]
+
 here = Path(__file__).parent
 
 with open(here / "config.toml", "rb") as f:
@@ -15,7 +17,7 @@ with open(here / "repositories.json") as f:
     repositories = json.load(f)
 
 for repository in repositories:
-    if repository["name"] in [".github", "developer-guide"] or repository["archived"]:
+    if repository["name"] in IGNORE or repository["archived"]:
         continue
     seen = False
     for category in config["categories"].values():
