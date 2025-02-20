@@ -28,6 +28,7 @@ for-developers = [
     "stac-index",
     "pgstac",
     "stac-rs",
+    "stacrs",
 ]
 for-data-users = [
     "pystac",
@@ -44,6 +45,7 @@ for-data-users = [
     "stac-terminal",
     "stac-layer",
     "qgis-stac-plugin",
+    "stacrs",
 ]
 
 [categories]
@@ -65,6 +67,7 @@ python = [
     "titiler-pgstac",
     "xpystac",
     "xstac",
+    "stacrs",
 ]
 javascript = [
     "stac-fields",
