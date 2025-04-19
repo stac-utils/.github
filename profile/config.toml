@@ -8,7 +8,7 @@ for-data-providers = [
     "stac-fields",
     "stac4s",
     "stac-crosswalks",
-    "stac-rs",
+    "rustac",
 ]
 for-developers = [
     "pystac",
@@ -17,6 +17,7 @@ for-developers = [
     "stac-fastapi-elasticsearch-opensearch",
     "stac-fastapi-sqlalchemy",
     "stac-fastapi-pgstac",
+    "stac-fastapi-geoparquet",
     "stac-api-validator",
     "titiler-pgstac",
     "stac-geoparquet",
@@ -27,8 +28,8 @@ for-developers = [
     "stac4s",
     "stac-index",
     "pgstac",
-    "stac-rs",
-    "stacrs",
+    "rustac",
+    "rustac-py",
 ]
 for-data-users = [
     "pystac",
@@ -41,11 +42,11 @@ for-data-users = [
     "stac-fields",
     "stac4s",
     "stac-index",
-    "stac-rs",
+    "rustac",
     "stac-terminal",
     "stac-layer",
     "qgis-stac-plugin",
-    "stacrs",
+    "rustac-py",
 ]
 
 [categories]
@@ -56,6 +57,7 @@ python = [
     "stac-fastapi-pgstac",
     "stac-fastapi-elasticsearch-opensearch",
     "stac-fastapi-sqlalchemy",
+    "stac-fastapi-geoparquet",
     "stactools",
     "stac-geoparquet",
     "stac-pydantic",
@@ -67,7 +69,7 @@ python = [
     "titiler-pgstac",
     "xpystac",
     "xstac",
-    "stacrs",
+    "rustac-py",
 ]
 javascript = [
     "stac-fields",
@@ -79,7 +81,7 @@ other = [
     "stac-index",
     "pgstac",
     "qgis-stac-plugin",
-    "stac-rs",
+    "rustac",
     "stac-layer",
     "stac4s",
     "stac-terminal",

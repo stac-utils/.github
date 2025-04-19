@@ -26,16 +26,17 @@ For more information on each repository, see its respective README.
 | [stac-geoparquet](https://github.com/stac-utils/stac-geoparquet) | Convert STAC items between JSON, GeoParquet, pgstac, and Delta Lake. | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-geoparquet?style=flat-square) |  | ✅ | ✅ |
 | [titiler-pgstac](https://github.com/stac-utils/titiler-pgstac) | TiTiler + PgSTAC | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/titiler-pgstac?style=flat-square) |  | ✅ |  |
 | [stac-pydantic](https://github.com/stac-utils/stac-pydantic) | Pydantic data models for the STAC spec | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-pydantic?style=flat-square) |  | ✅ |  |
-| [xstac](https://github.com/stac-utils/xstac) | STAC from xarray | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/xstac?style=flat-square) | ✅ |  |  |
 | [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac) | PostgreSQL backend for stac-fastapi using pgstac (https://github.com/stac-utils/pgstac) | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-fastapi-pgstac?style=flat-square) |  | ✅ |  |
+| [xstac](https://github.com/stac-utils/xstac) | STAC from xarray | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/xstac?style=flat-square) |  |  | ✅ |
 | [stac-validator](https://github.com/stac-utils/stac-validator) | Validator for the stac-spec | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-validator?style=flat-square) | ✅ |  | ✅ |
 | [stac-asset](https://github.com/stac-utils/stac-asset) | Read and download STAC Assets, using a variety of authentication schemes | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-asset?style=flat-square) |  |  | ✅ |
 | [stac-fastapi-elasticsearch-opensearch](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch) | Elasticsearch backend for stac-fastapi with Opensearch support. | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-fastapi-elasticsearch-opensearch?style=flat-square) |  | ✅ |  |
 | [xpystac](https://github.com/stac-utils/xpystac) | For extending xarray.open_dataset to accept pystac objects | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/xpystac?style=flat-square) |  |  | ✅ |
+| [rustac-py](https://github.com/stac-utils/rustac-py) | The power of Rust for the Python STAC ecosystem | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/rustac-py?style=flat-square) |  | ✅ | ✅ |
 | [stac-task](https://github.com/stac-utils/stac-task) | Provides a class interface for running custom algorithms on STAC ItemCollections | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-task?style=flat-square) |  | ✅ |  |
-| [stacrs](https://github.com/stac-utils/stacrs) | A small no-dependency Python package for STAC, using Rust under the hood | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stacrs?style=flat-square) |  | ✅ | ✅ |
 | [stac-api-validator](https://github.com/stac-utils/stac-api-validator) | A STAC API validation client | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-api-validator?style=flat-square) |  | ✅ |  |
 | [stac-check](https://github.com/stac-utils/stac-check) | Linting and validation tool for STAC assets | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-check?style=flat-square) | ✅ |  |  |
+| [stac-fastapi-geoparquet](https://github.com/stac-utils/stac-fastapi-geoparquet) | A stac-fastapi server implementation with a stac-geoparquet backend | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-fastapi-geoparquet?style=flat-square) |  | ✅ |  |
 | [stac-fastapi-sqlalchemy](https://github.com/stac-utils/stac-fastapi-sqlalchemy) | PostgreSQL backend for stac-fastapi using SQLAlchemy | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-fastapi-sqlalchemy?style=flat-square) |  | ✅ |  |
 
 ### Javascript
@@ -54,13 +55,13 @@ These provide tooling for other languages, databases, visualizations, and other 
 | Repository | Description | Badges | 👩‍🍳 |💁‍♂️ | 😋️ |
 | -- | -- | -- | -- | -- | -- |
 | [pgstac](https://github.com/stac-utils/pgstac) | Schema, functions and a python library for storing and accessing STAC collections and items in PostgreSQL | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/pgstac?style=flat-square) |  | ✅ |  |
-| [stac-rs](https://github.com/stac-utils/stac-rs) | Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in Rust | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-rs?style=flat-square) | ✅ | ✅ | ✅ |
+| [rustac](https://github.com/stac-utils/rustac) | The power of Rust for the STAC ecosystem | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square) | ✅ | ✅ | ✅ |
 | [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) | QGIS plugin for reading STAC APIs | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/qgis-stac-plugin?style=flat-square) |  |  | ✅ |
 | [stac-layer](https://github.com/stac-utils/stac-layer) | Visualize a STAC Item or Collection on a Leaflet Map | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-layer?style=flat-square) |  |  | ✅ |
 | [stac4s](https://github.com/stac-utils/stac4s) | A Scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac4s?style=flat-square) | ✅ | ✅ | ✅ |
 | [stac-terminal](https://github.com/stac-utils/stac-terminal) | Output info on STAC Items in the terminal | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-terminal?style=flat-square) |  |  | ✅ |
-| [stac-index](https://github.com/stac-utils/stac-index) | A service that lists all available and registered STAC catalogs and APIs. | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-index?style=flat-square) |  | ✅ | ✅ |
 | [stac-crosswalks](https://github.com/stac-utils/stac-crosswalks) | Common metadata crosswalks to help people map from their existing data into STAC | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-crosswalks?style=flat-square) | ✅ |  |  |
+| [stac-index](https://github.com/stac-utils/stac-index) | A service that lists all available and registered STAC catalogs and APIs. | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-index?style=flat-square) |  | ✅ | ✅ |
 
 ## Questions or issues?
 
