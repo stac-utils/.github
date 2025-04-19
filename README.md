@@ -7,10 +7,10 @@ This repository includes:
 
 ## Usage
 
-To update the profile readme:
+Get [uv](https://docs.astral.sh/uv/), then:
 
 ```shell
-pip install -r profile/requirements.txt
+uv sync
 profile/update
 ```
 
