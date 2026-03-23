@@ -1,7 +1,0 @@
-#!/usr/bin/env sh
-
-set -e
-
-here="$(cd "$(dirname "$0" )" && pwd)"
-uv run "$here/get_repositories.py"
-uv run "$here/render.py"
