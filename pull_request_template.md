@@ -8,10 +8,10 @@
 ---
 
 ## Checklist
-- [ ] **Linting:** Code is formatted and linted (run `pre-commit run --all-files`).
+- [ ] **Linting:** Code is formatted and linted
 - [ ] **Tests:** Tests pass. I have included new tests for these changes where applicable.
 - [ ] **Edge Cases:** I have manually verified "unhappy paths" and edge cases beyond the basic success criteria (e.g., database connection timeouts, malformed input, strict mapping rejections).
-- [ ] **Documentation:** I have updated `README.md` and `CHANGELOG.md` to reflect any new environment variables, configuration changes, or breaking updates.
+- [ ] **Documentation:** I have updated `README.md` to reflect any new environment variables, configuration changes, or breaking updates.
 - [ ] **Accountability:** I can explain the implementation logic for every line of code submitted.
 
 ---
